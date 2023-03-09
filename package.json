@@ -1,0 +1,12 @@
+{
+  "name": "au-deploycontract",
+  "version": "1.0.0",
+  "description": "\"au-deployContract\" is a Truffle-based repo for deploying smart contracts to Ethereum blockchain. Includes scripts for compilation, migration, testing, and config files. Ideal for Ethereum enthusiasts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
